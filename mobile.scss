@@ -1125,6 +1125,155 @@ main {
     padding-left: 6%;
 }
 
+.blog4 {
+    margin-top: 4%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.b4s1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: -15px;
+}
+
+.b4s6p1 {
+    display: flex;
+}
+
+.b4s6p11 {
+    width: 86px;
+    height: 86px;
+    border-radius: 10px;
+    display: flex;
+    padding-left: 10%;
+}
+
+.b4i29 {
+    width: 86px;
+    height: 86px;
+    border-radius: 10px;
+}
+
+.btn6 {
+    width: 86px;
+    height: 24px;
+    border-radius: 20px;
+    background-color: $rd;
+    color: $wh;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+    transform: rotate(90deg);
+    border: 0;
+    margin-top: 7%;
+}
+
+button span {
+    display: inline-block;
+    transform: rotate(180deg);
+    color: $wh;
+}
+
+.b4s6t1 {
+    display: flex;
+    background-color: $bl;
+    width: 249px;
+    height: 86px;
+    border-radius: 10px;
+    margin-right: 10%;
+}
+
+.b4s6t1p1 {
+    display: flex;
+    color: $bl;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 110%;
+    padding-top: 2%;
+    padding-left: 5%;
+    color: $wh;
+    padding-top: 4%;
+    
+}
+
+.b4s2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: -15px;
+    margin-top: 2%;
+}
+
+.b4s6p2 {
+    display: flex;
+}
+
+.b4s6p11 {
+    width: 86px;
+    height: 86px;
+    border-radius: 10px;
+    display: flex;
+    padding-left: 10%;
+}
+
+.b4i29 {
+    width: 86px;
+    height: 86px;
+    border-radius: 10px;
+}
+
+.btn6 {
+    width: 86px;
+    height: 24px;
+    border-radius: 20px;
+    background-color: $rd;
+    color: $wh;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+    transform: rotate(90deg);
+    border: 0;
+    margin-top: 7%;
+}
+
+button span {
+    display: inline-block;
+    transform: rotate(180deg);
+    color: $wh;
+}
+
+.b4s6t1 {
+    display: flex;
+    background-color: $bl;
+    width: 249px;
+    height: 86px;
+    border-radius: 10px;
+    margin-right: 10%;
+}
+
+.b4s6t1p1 {
+    display: flex;
+    color: $bl;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 110%;
+    padding-top: 2%;
+    padding-left: 5%;
+    color: $wh;
+    padding-top: 4%; 
+}
 
 }
 
