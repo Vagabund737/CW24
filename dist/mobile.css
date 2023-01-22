@@ -1,0 +1,123 @@
+@media screen and (max-width: 375px) {
+  .container {
+    max-width: 375px;
+    margin: auto;
+    background-color: #E3E3E3;
+    overflow-x: hidden;
+  }
+
+  .hdrn {
+    width: 375px;
+    height: 84px;
+    border-radius: 10px;
+    background-image: url(../img/hdr.png);
+  }
+
+  .nav1 {
+    width: 359px;
+    height: 48px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding-top: 2%;
+    margin-top: 2%;
+    padding-left: 30%;
+    background-color: black;
+  }
+
+  .logom1 {
+    width: 142px;
+    height: 32px;
+    padding-bottom: 2%;
+  }
+
+  .nav3 {
+    padding-top: 2%;
+  }
+
+  .nav3b1 {
+    width: 359px;
+    height: 460px;
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 1%;
+  }
+
+  .n3bim {
+    width: 335px;
+    height: 220px;
+    border-radius: 10px;
+    margin-left: 4%;
+    margin-top: 2%;
+  }
+
+  .n3bi {
+    width: 335px;
+    height: 220px;
+    border-radius: 10px;
+  }
+
+  .f2b3ir {
+    display: flex;
+    width: 190px;
+    height: 38px;
+    justify-content: center;
+    gap: 5px;
+    align-items: flex-start;
+    text-align: center;
+    color: black;
+  }
+
+  .ftt1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: black;
+    padding-left: 5%;
+  }
+
+  .ftt2 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: black;
+    padding-left: 6%;
+  }
+
+  .fim1 {
+    margin-top: 5.5%;
+  }
+
+  .hpnb3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .hdb3 {
+    width: 335px;
+    height: 72px;
+    font-family: "Inter";
+    font-style: normal;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 100%;
+    padding-left: 6%;
+    margin-top: 5%;
+  }
+
+  .pdb3 {
+    font-family: "Inter";
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 120%;
+    margin-right: 26%;
+    margin-bottom: 20%;
+  }
+}
